@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uipath xmlns="https://uipath.com/schemas">
+  <component>UiPath Studio</component>
+  <component>UiPath Orcehstrator</component>
+</uipath>
